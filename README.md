@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sreeram 👋
 
-<!--
-**SreeramKattinattil/SreeramKattinattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎯 Aspiring VAPT, Offensive Security and SOC Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MCA Student
+
+🐍 Learning Python for Cybersecurity
+
+🐧 Linux Enthusiast
+
+🌐 Networking & Web Security
+
+---
+
+## Current Learning
+
+- Linux
+- Networking
+- Nmap
+- Python
+- Web Security
+- Active Directory
+- Splunk
+- Wazuh
+
+---
+
+## Current Projects
+
+- TCP Port Scanner
+- Cybersecurity Portfolio
+
+---
+
+## Goals
+
+- Build practical cybersecurity tools
+- Complete TryHackMe learning paths
+- Create a home lab
+- Contribute to open source
+
+---
+
+## Connect
+
+LinkedIn (We'll add later)
+
+Portfolio Website (Coming Soon)
