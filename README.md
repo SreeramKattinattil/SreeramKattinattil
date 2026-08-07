@@ -43,8 +43,4 @@
 
 ---
 
-## Connect
 
-LinkedIn (We'll add later)
-
-Portfolio Website (Coming Soon)
