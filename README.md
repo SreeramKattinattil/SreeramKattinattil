@@ -1,46 +1,47 @@
 # Hi, I'm Sreeram 👋
 
-## About Me
+## 🎯 About Me
 
-🎯 Aspiring VAPT, Offensive Security and SOC Analyst
+Aspiring **VAPT | Offensive Security | SOC Analyst**
 
-🎓 MCA Student
-
-🐍 Learning Python for Cybersecurity
+🎓 MCA Graduate
 
 🐧 Linux Enthusiast
 
-🌐 Networking & Web Security
+🐍 Learning Python for Cybersecurity
+
+🌐 Interested in Networking & Web Security
 
 ---
 
-## Current Learning
+## 📚 Current Learning
 
-- Linux
-- Networking
-- Nmap
-- Python
-- Web Security
-- Active Directory
-- Splunk
-- Wazuh
-
----
-
-## Current Projects
-
-- TCP Port Scanner
-- Cybersecurity Portfolio
+* Linux
+* Networking
+* Nmap
+* Python
+* Web Security
+* Active Directory
+* Splunk
+* Wazuh
 
 ---
 
-## Goals
+## 🔐 Cybersecurity Projects
 
-- Build practical cybersecurity tools
-- Complete TryHackMe learning paths
-- Create a home lab
-- Contribute to open source
+### TCP Port Scanner
+
+🚧 Currently under development
+
+A Python-based TCP port scanning tool built to understand network scanning, sockets, and service discovery.
 
 ---
 
+## 🎯 Goals
 
+* Build practical cybersecurity tools
+* Develop hands-on VAPT and offensive security skills
+* Build SOC and security monitoring labs
+* Complete hands-on cybersecurity labs
+* Build a professional cybersecurity portfolio
+* Contribute to open-source security projects
