@@ -31,12 +31,13 @@ Aspiring **VAPT | Offensive Security | SOC Analyst**
 
 ### TCP Port Scanner
 
-A Python-based multithreaded TCP port scanner with port-range scanning, service detection, banner grabbing, logging, and JSON reporting.
+A Python-based multithreaded TCP port scanner featuring port-range scanning, service identification, banner grabbing, JSON reporting, logging, and automated testing.
 
-**Status:** ✅ Completed
+**Status:** ✅ Completed — v1.0.0
 
 🔗 [View Project](https://github.com/SreeramKattinattil/tcp-port-scanner)
----
+
+📦 [View Release v1.0.0](https://github.com/SreeramKattinattil/tcp-port-scanner/releases/tag/v1.0.0)
 
 ## 🎯 Goals
 
